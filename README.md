@@ -14,8 +14,8 @@ Here you can find the latest versions of our applications for Android and Window
 
 | Platform | Type | Link |
 | :--- | :--- | :--- |
-| **Android** | `.apk` | **[⬇️ Download for Android](PASTE_YOUR_APK_LINK_HERE)** |
-| **Windows** | `.exe` | **[⬇️ Download for Windows](PASTE_YOUR_EXE_LINK_HERE)** |
+| **Android** | `.apk` | **[⬇️ Download for Android](https://github.com/Dojeid/Cimple_Industries_Releases/releases/tag/v0.0.1)** |
+| **Windows** | `.exe` | **[⬇️ Download for Windows](https://github.com/Dojeid/Cimple_Industries_Releases/releases/tag/v0.0.1)** |
 
 *(More apps coming soon...)*
 
