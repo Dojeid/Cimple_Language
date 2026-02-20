@@ -19,7 +19,7 @@ This repository contains the early-stage compiler frontend built using a handwri
 
 | Platform | Type | Link |
 | :--- | :--- | :--- |
-| **Windows-x64/x86** | `.exe` | **[⬇️ Download ](https://github.com/Dojeid/Cimple_Industries_Releases/releases/tag/cimplev0.1)** |
+| **Windows-x64/x86** | `.exe` | **[⬇️ Download ](https://github.com/Dojeid/Cimple_Industries_Releases/releases/latest)** |
 
 ## Current Status
 
