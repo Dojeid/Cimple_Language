@@ -3,7 +3,7 @@
 Welcome to the official release repository for **Cimple Industries**.  
 Here you can find the latest versions of our applications for Android and Windows.
 
-> **Note:** All source code is private. This repository is strictly for hosting public downloads.
+> **Note:** All source code is private for now. This repository is strictly for hosting public downloads.
 
 ---
 <img width="2752" height="1536" alt="cimple_bg" src="https://raw.githubusercontent.com/Dojeid/Cimple_Industries_Releases/heads/main/cimple_bg.png" />
