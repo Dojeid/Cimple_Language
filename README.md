@@ -16,7 +16,7 @@ This repository contains the compiler toolchain, featuring a handwritten recursi
 
 | Platform | Type | Link | Stats |
 | :--- | :--- | :--- | :--- |
-| **Windows-x64/x86** | `.exe` | **[⬇️ Download v0.5](https://github.com/Dojeid/Cimple_Industries_Releases/releases/latest)** | ![Downloads](https://img.shields.io/github/downloads/Dojeid/Cimple_Industries_Releases/total?label=Downloads&color=gold) |
+| **Windows-x64/x86** | `.exe` | **[⬇️ Download v0.6](https://github.com/Dojeid/Cimple_Industries_Releases/releases/latest)** | ![Downloads](https://img.shields.io/github/downloads/Dojeid/Cimple_Industries_Releases/total?label=Downloads&color=gold) |
 
 ## Current Status
 
