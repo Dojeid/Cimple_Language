@@ -53,7 +53,7 @@ Cimple is currently in active development. Expect rapid iterations.
 ---
 
 Building a language is a long-term systems engineering effort.  
-**Cimple v0.5** is the bridge to native performance.
+**Cimple v0.6** is the bridge to native performance.
 
 ### 📬 Contact
 **Cimple Industries** *Salem, Tamil Nadu*
