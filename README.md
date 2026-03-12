@@ -1,32 +1,14 @@
 # Cimple Language - Download Hub
 
-Welcome to the official release repository for **Cimple Industries**.  
-Here you can find the latest versions of our applications for Android and Windows.
+Welcome to the rolling release Branch for **Cimple Industries**.  
 
-> **Note:** All source code is private for now. This repository is strictly for hosting public downloads.
+> **Note:** All source code is private for now. This repository is strictly for Rolling Release.
 
 ---
-<img width="2752" height="1536" alt="cimple_bg" src="https://raw.githubusercontent.com/Dojeid/Cimple_Industries_Releases/heads/main/cimple_bg.png" />
+<img width="2752" height="1536" alt="cimple_bg" src="https://raw.githubusercontent.com/Dojeid/Cimple_Industries_Releases/heads/rolling/cimple_bg.png" />
 
-# Cimple
-
-Cimple is a performance-oriented programming language designed with Python-like syntax and systems-level capability in mind.
-
-This repository contains the compiler toolchain, featuring a handwritten recursive-descent parser and our evolving backend architecture.
-
-| Platform | Type | Link | Stats |
-| :--- | :--- | :--- | :--- |
-| **Windows-x64/x86** | `.exe` | **[⬇️ Download v0.6](https://github.com/Dojeid/Cimple_Industries_Releases/releases/latest)** | ![Downloads](https://img.shields.io/github/downloads/Dojeid/Cimple_Industries_Releases/total?label=Downloads&color=gold) |
-
-## Current Status
-
-**Cimple v0.5** introduces significant stability and logic improvements:
-
-- **Enhanced Parser:** Support for complex nested expressions and scoping.
-- **Initial Semantic Layer:** Basic type checking and variable validation.
-- **Control Flow:** Optimized `while` loops and `if/elif/else` branching.
-- **Memory Management:** Preliminary logic for stack allocation.
-- **Literals:** Expanded support for hex, binary, and escape sequences.
+# Cimple Language
+For more info check main branch
 
 This milestone marks the transition from a syntax-focused experiment to a functional language frontend.
 
